@@ -11,7 +11,16 @@ const Footer = () => (
       px="40px"
       pt="24px"
     >
-      <img src={Logo} alt="logo" style={{ width: "200px", height: "41px" }} />
+      <Typography
+        variant="h3"
+        sx={{ fontSize: { lg: "38px", xs: "25px" } }}
+        mt="41px"
+        textAlign="center"
+        pb="40px"
+        color="#FF2625"
+      >
+        Shred Shape
+      </Typography>
     </Stack>
     <Typography
       variant="h5"
