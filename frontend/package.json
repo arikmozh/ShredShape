@@ -18,6 +18,9 @@
     "react-loader-spinner": "^6.0.0-1",
     "react-router-dom": "^6.3.0"
   },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^1.0.0"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
